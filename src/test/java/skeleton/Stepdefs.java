@@ -95,11 +95,4 @@ public class Stepdefs {
 		int  countProductsInInt = Integer.parseInt(countProducts);
 		Assert.assertEquals(numberOfProducts, countProductsInInt);
 	}
-
-
-
-
-
-
-
 }
